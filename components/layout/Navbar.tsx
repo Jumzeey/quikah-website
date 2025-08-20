@@ -26,9 +26,9 @@ export function Navbar() {
 
   const navigation = [
     { name: 'For Businesses', href: '/for-businesses' },
-    { name: 'For Customers', href: '/for-customers' },
-    { name: 'Pricing', href: '/pricing' },
-    { name: 'FAQs', href: '/faqs' },
+    { name: 'For Customers', href: '#' },
+    { name: 'Pricing', href: '#' },
+    { name: 'FAQs', href: '#' },
   ]
 
   return (
